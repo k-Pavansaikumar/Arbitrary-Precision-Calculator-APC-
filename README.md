@@ -67,4 +67,4 @@ Division:
 
 *  Multiplication
 
-/  Division
+* Division
