@@ -1,7 +1,6 @@
 /*********************************************************************************************************************
 * Project Title: Arbitary precision calculator(APC)
 * Name: K Pavan Sai Kumar
-* Date:06/04/2026
 * Description: This project implements arithmetic operations on large numbers using doubly linked lists in C.
 Each node stores a block of digits (base 10000) to handle numbers beyond standard data types.
 It supports addition, subtraction, multiplication, and division using manual calculation logic.
